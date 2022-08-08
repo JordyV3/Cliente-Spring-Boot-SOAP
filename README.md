@@ -9,7 +9,7 @@ Llama a un servicio SOAP básico que convierte números en palabras, exponiendo 
 
 Este proyecto fue construido con Spring Initializr utilizando un maven envuelto. Entonces, para compilar y ejecutar este proyecto, ejecute los siguientes comandos:
 
-    git clone https://github.com/felipeleivav/spring-boot-soap-client-example.git
+    git clone https://github.com/JordyV3/Cliente-Spring-Boot-SOAP.git
     ./mvnw package
     cd target
     java -jar soap-client-sample-0.0.1-SNAPSHOT.jar
